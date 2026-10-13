@@ -1,6 +1,6 @@
-# Programming for Data Structures
+# Programming for Data Science
 
-Programming for Data Structures is a Go-based project for learning and applying
+Programming for Data Science is a Go-based project for learning and applying
 the algorithms and engineering practices used to build reliable data-structure
 software. The project will grow from small, testable implementations into a
 containerized service that can be built locally and deployed to a remote Linux
