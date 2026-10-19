@@ -1,0 +1,3 @@
+id,name,age,height_cm,weight_kg,city,score
+1,alice,29.0,165.0,68.0,new york,85.0
+5,eva,27.0,160.0,55.0,new york,88.0
